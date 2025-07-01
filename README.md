@@ -3,7 +3,8 @@
 Using `poetry==2.1.3`
 
 ```bash
-./reproduce_problem
+./reproduce_problem.sh
+./minus-p-ignored.sh
 ```
 
 in the subfolder, `env list` prints something different from `env info`
